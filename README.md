@@ -19,8 +19,5 @@ See analysis below of each model used:
 
 ![SMOTEENN](https://github.com/MichaylaGilchrist/Credit_Risk_Analysis/blob/main/SMOTEENN.PNG)
 
-* BalancedRandomForestClassifier
-* EasyEnsembleClassifier
 
-## Summary
 
